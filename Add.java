@@ -1,13 +1,7 @@
-import java.util.Scanner; 
-
 class Add{
 	public static void main(String a []){
-		int x=2509;
-		int y=7;
-		Scanner [] in = new Scanner (System.in);
-
-		x = in.nextInt();
-         
+		int x=2;
+		int y=3;
 
 		int z=x+y;
         
